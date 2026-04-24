@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(npx vite *)",
+      "Bash(node -c server.js)",
+      "Bash(node -c config/db.js)",
+      "Bash(node -c utils/valuationEngine.js)",
+      "Bash(node -c seed/seedData.js)",
+      "Bash(curl -s http://localhost:5173)"
+    ]
+  }
+}
