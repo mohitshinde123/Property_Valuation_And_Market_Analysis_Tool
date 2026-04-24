@@ -248,7 +248,7 @@ VITE v8.x.x  ready in XXX ms
 
 ### Open in Browser
 
-Navigate to **http://localhost:5173** to use the application.
+Navigate to **(http://localhost:5174/)** to use the application.
 
 ---
 
